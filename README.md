@@ -1,3 +1,7 @@
 # 2024Spring---Data-Structure-and-Algorithm-B
 
-This repository is created for storing the programs and files for the course Data Structure and Algorithm (B) in 2024 spring.
+这个代码仓库里存储的是2024年春季数据结构与算法B课程中所写的代码和作业。代码都在code文件夹中，标记了写的时间和出处，作业对应的markdown文档和pdf在assignment文件夹中，markdown文档里面对应的原始图片在image文件夹里面（因为一开始文件是在本地写的，所以就没有用图床）
+
+关于这门课的学习方法：这门课上的一些知识在中学的时候已经学过，所以说主要的任务就变成了在课程中不断查漏补缺（比如说以前可能没有关注过warnsdorff算法这种的），同时也努力完成练习和作业，提高代码熟练度。一个学期的课程上下来感觉对于python还是显著的熟练了很多，也算是达到了报课的时候学习python这门语言的目的。在学的过程中我感觉python相较于之前写的C而言相对会更方便一些，很多事情都可以通过调用别人已经写好的包来完成，对于科学计算有scipy/numpy，符号计算有sympy，都在平时生活中有不小的作用。这门课也让我感受到有时借助于ChatGPT也是一种很好的学习方法，ChatGPT一方面依赖于其训练数据而可以产生大量标准的代码，很有参考价值，另一方面对于各种包和系统函数的使用也可以随用随问，非常方便。
+
+
